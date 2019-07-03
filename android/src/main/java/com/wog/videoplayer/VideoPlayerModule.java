@@ -15,7 +15,7 @@ import com.facebook.react.bridge.ReactMethod;
  */
 public class VideoPlayerModule extends ReactContextBaseJavaModule implements ActivityEventListener {
 
-    public final int VIDEO_CODE = 1;
+    public final int VIDEO_CODE = 9716;
 
     public VideoPlayerModule(ReactApplicationContext reactContext) {
         super(reactContext);
